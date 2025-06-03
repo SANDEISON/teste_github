@@ -1,0 +1,1 @@
+print("Iniciando os projetos com Python")
